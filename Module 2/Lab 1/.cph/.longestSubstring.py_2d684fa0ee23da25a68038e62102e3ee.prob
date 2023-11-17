@@ -1,0 +1,1 @@
+{"name":"Local: longestSubstring","url":"e:\\Codes\\Litcoder\\Module 2\\Lab 1\\longestSubstring.py","tests":[{"id":1700205714869,"input":"abbedfgi","output":"6"},{"id":1700205718953,"input":"pqrsstu","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Codes\\Litcoder\\Module 2\\Lab 1\\longestSubstring.py","group":"local","local":true}

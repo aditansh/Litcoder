@@ -1,0 +1,1 @@
+{"name":"Local: lego","url":"e:\\Codes\\Litcoder\\Module 2\\Lab 2\\lego.py","tests":[{"id":1700216037437,"input":"2\n2","output":"3"},{"id":1700216083226,"input":"4\n4","output":"3375"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Codes\\Litcoder\\Module 2\\Lab 2\\lego.py","group":"local","local":true}
