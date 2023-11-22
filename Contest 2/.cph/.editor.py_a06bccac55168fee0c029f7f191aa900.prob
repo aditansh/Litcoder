@@ -1,0 +1,1 @@
+{"name":"Local: editor","url":"e:\\Codes\\Litcoder\\Contest 2\\editor.py","tests":[{"id":1700632974735,"input":"1 abc,3 3,2 2,3 1","output":"c\na"},{"id":1700632994150,"input":"1 zxy,3 3,2 2,1 def,3 2","output":"y\nd"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Codes\\Litcoder\\Contest 2\\editor.py","group":"local","local":true}

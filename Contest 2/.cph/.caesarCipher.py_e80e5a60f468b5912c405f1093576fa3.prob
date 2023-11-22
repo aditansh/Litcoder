@@ -1,0 +1,1 @@
+{"name":"Local: caesarCipher","url":"e:\\Codes\\Litcoder\\Contest 2\\caesarCipher.py","tests":[{"id":1700632690891,"input":"AsdfGH","output":"EwhjKL"},{"id":1700632873069,"input":"LkjHgg","output":"PonLkk"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Codes\\Litcoder\\Contest 2\\caesarCipher.py","group":"local","local":true}
