@@ -1,0 +1,1 @@
+{"name":"Local: commonChild","url":"e:\\Codes\\Litcoder\\Contest 1\\commonChild.py","tests":[{"id":1700632488470,"input":"pqrs\nopqs","output":"3"},{"id":1700632498599,"input":"pacb\nopqs","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Codes\\Litcoder\\Contest 1\\commonChild.py","group":"local","local":true}
