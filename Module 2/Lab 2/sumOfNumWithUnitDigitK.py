@@ -5,8 +5,10 @@ def minSetSize(k,sum):
         if (i*k)<=sum and (k*i)%10 == sum%10:
             return i
     return -1
+try:
+    k = int(input())
+    sum = int(input())
 
-k = int(input())
-sum = int(input())
-
-print(minSetSize(k, sum))
+    print(minSetSize(k, sum))
+except Exception as e:
+    print(e)
